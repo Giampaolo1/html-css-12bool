@@ -1,11 +1,11 @@
 [class*="col-"] {
   height: 100px;
   border: 0.1px solid;
+  background-color: lightgrey;
 }
 
 body {
   text-align: center;
-  background-color: lightgrey;
 }
 
 .nes {
