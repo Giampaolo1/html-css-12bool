@@ -2,12 +2,11 @@
   height: 100px;
   border: 0.1px solid;
   background-color: lightgrey;
-}
-
-body {
   text-align: center;
+  line-height: 100px;
 }
 
 .nes {
   background-color: lightgreen;
+  border: solid white;
 }
